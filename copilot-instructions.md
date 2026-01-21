@@ -14,6 +14,8 @@
 
 **CRITICAL**: When making changes that affect how the application works, its architecture, flow, or implementation, ALWAYS update the documentation to reflect those changes. Documentation must be kept in sync with the codebase.
 
+**NAMING CONVENTION**: All markdown files MUST use kebab-case (lowercase with hyphens). Examples: `configuration-guide.md`, `api-documentation.md`, `setup-instructions.md`.
+
 ### When to Update Documentation
 
 Update documentation files whenever you:
